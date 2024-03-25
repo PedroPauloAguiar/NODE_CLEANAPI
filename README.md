@@ -1,5 +1,4 @@
-# NODE_JS
-Clean Node API
+# CLEAN NODE API
 
 Essa API faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
 
